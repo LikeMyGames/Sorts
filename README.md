@@ -1,1 +1,2 @@
 # Sorts
+This is a repository with a single Java file that has many different kinds of sorting algorithms. In the Java file, the sorting algorithms are each in their own method. The method's name is the name of the sort. Choose whatever sort you want. Call the method: getSorts(); to find all of the currently available sorting algorithms. Each method takes in a 1d array value for the data types int, long, String, double, float, and boolean. I'll try to add more algorithms over time. BTW each method is static so as long is the file is imported it can be used.
